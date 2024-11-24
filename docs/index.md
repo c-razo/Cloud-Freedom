@@ -21,6 +21,7 @@ Your ultimate guide to building your private cloud storage system and breaking f
 - [**Setup Guide**](setup.md): Step-by-step instructions for installation.
 - [**Configuration**](configuration.md): Customize your cloud for seamless use.
 - [**Security Best Practices**](security.md): Protect your data with SSL and authentication.
+- [**Multi-User Setup**](multi-user-setup.md): Learn how to set up your cloud for multiple users with shared access.
 - [**Troubleshooting**](troubleshooting.md): Quick solutions to common issues.
 
 ---
