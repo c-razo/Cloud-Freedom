@@ -1,10 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
-
 defaults:
   - scope:
       path: ""
     values:
       layout: default
-
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
 description: "Your ultimate guide to private cloud storage."
 search_enabled: true
