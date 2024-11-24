@@ -40,4 +40,4 @@ Let’s get started on your journey to **Cloud Freedom**!
 
 ---
 
-[⬅ Back to Home](../index.md)
+[⬅ Back to Home](../docs/index.md)
