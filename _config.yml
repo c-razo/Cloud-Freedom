@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 title: >
   <div style="display: flex; align-items: center; gap: 10px;">
       <img src="assets/logo1.png" alt="Cloud Freedom Logo" style="width: 40px; height: 40px;">
-      <span>Cloud-Freedom</span>
+      <a href="/" style="text-decoration: none; color: inherit;">Cloud-Freedom</a>
   </div>
 description: "Your ultimate guide to private cloud storage."
 search_enabled: true
