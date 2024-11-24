@@ -33,9 +33,9 @@ Your ultimate guide to building your private cloud storage system and breaking f
 
 ### 📢 Stay Updated
 Follow us for updates:  
-📸 [Instagram](#) (Coming Soon)  
-🎥 [TikTok](#) (Coming Soon)  
-📺 [YouTube](#) (Coming Soon)
+📸 [Instagram](https://www.instagram.com/cloudfreedom.tech)  
+🎥 [TikTok](https://www.tiktok.com/@cloudfreedom.tech)  
+📺 [YouTube](https://www.youtube.com/@CloudFreedom_Tech)  
 
 ---
 
