@@ -46,10 +46,11 @@ Seamlessly access your files on the go by integrating your private cloud storage
 
 *Return to the [Main Guide](index.md) or explore [Advanced Features](advanced.md).*
 
-[⬅ Back to Home](index.md)
-
----
-
-<div style="display: flex; justify-content: flex-end;">
-    <a href="NEXT_PAGE.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next &rarr;</a>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+    <a href="/" style="padding: 10px 20px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+        &larr; Back to Home
+    </a>
+    <a href="NEXT_PAGE.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+        Next &rarr;
+    </a>
 </div>
