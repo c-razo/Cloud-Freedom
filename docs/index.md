@@ -22,14 +22,19 @@ No more monthly fees. No more third-party snooping. With our easy-to-follow guid
 
 ---
 
-## 🚀 Take the Next Step:
+## 🚀 Take the Next Step
 
-- [Buy Basic](#)  
-- [Buy Premium](#)  
+### Ready to take control of your data? Choose the plan that fits your needs:
+
+<a href="#" style="text-decoration: none; background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 5px; margin: 10px; display: inline-block; font-weight: bold;">Buy Basic</a>  
+<small>Perfect for beginners to get started with their private cloud.</small>
+
+<a href="#" style="text-decoration: none; background-color: #FF5733; color: white; padding: 10px 20px; border-radius: 5px; margin: 10px; display: inline-block; font-weight: bold;">Buy Premium</a>  
+<small>For advanced users who want more features and flexibility.</small>
 
 ---
 
-[📚 Explore the Guide:](introduction.md)
+## 📚 Explore the Guide:
 
 ### **Basic**
 Get started with the essentials to set up your private cloud:  
