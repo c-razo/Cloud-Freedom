@@ -1,8 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 title: >
   <div style="text-align: center;">
-      <img src="assets/favicon-32x32.png" alt="Cloud Freedom Logo" style="width: 40px; height: 40px; display: block; margin: 0 auto;">
-      <a href="/" style="text-decoration: none; color: inherit; font-size: 24px; font-weight: bold;">Cloud-Freedom</a>
+      <img src="docs/assets/icons/favicon-32x32.png" alt="Cloud Freedom Logo" style="width: 40px; height: 40px; display: block; margin: 0 auto;">
+      <a href="/" style="text-decoration: none; color: inherit; font-size: 24px; font-weight: bold; display: block; text-align: center; margin-top: 5px;">Cloud-Freedom</a>
   </div>
 description: "Your ultimate guide to private cloud storage."
 search_enabled: true
