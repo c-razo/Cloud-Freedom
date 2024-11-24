@@ -63,4 +63,4 @@ Once you’ve gathered your hardware and software, we’ll walk you through inst
 ---
 
 ---
-[⬅ Back to Home](../index.md)
+[⬅ Back to Home](../docs/index.md)
