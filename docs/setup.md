@@ -21,21 +21,6 @@ Once you have your hardware and software ready, follow these simple steps to get
 
 ---
 
-## 📚 Explore the Setup Guide:
-
-### **Basic Setup**  
-Perfect for beginners who want to get started with the fundamentals of cloud storage:  
-- [Introduction](introduction.md)  
-- [Setup Process](setup.md)  
-- [Configuration](configuration.md)  
-
-### **Advanced Setup**  
-For more advanced users who want to customize their cloud:  
-- [Multi-User Setup](multi-user-setup.md)  
-- [Security Configuration](security.md)  
-
----
-
 ## 💡 [How to Use Your Private Cloud](how-to-use.md)  
 Learn how to make the most out of your new private cloud.
 
