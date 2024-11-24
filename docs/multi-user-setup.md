@@ -66,8 +66,6 @@ With a multi-user setup, you can create separate accounts for family members, te
 
 ---
 
-*Return to the [Main Guide](index.md) or explore [Advanced Features](advanced.md).*
-
 <div style="display: flex; justify-content: space-between;">
   <a href="security">&larr; Previous</a>
   <a href="how-to-use">Next &rarr;</a>
