@@ -1,17 +1,16 @@
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
-<link rel="manifest" href="/assets/icons/site.webmanifest">
-<link rel="shortcut icon" href="/assets/icons/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+<link rel="manifest" href="assets/icons/site.webmanifest">
+<link rel="shortcut icon" href="assets/icons/favicon.ico">
+<img src="docs/assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 0 auto;">
 
-<div style="text-align: center; margin-top: 20px;">
-    <a href="index.md" style="font-size: 24px; font-weight: bold; color: #0078D7; text-decoration: none;">Cloud Freedom</a>
-    <img src="/assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; margin-top: 10px; margin-bottom: 10px;">
-    <h1 style="color: #0078D7;">Your Data, Your Rules</h1>
-</div>
+<h1 style="text-align: center; color: #007BFF;">Your Data, Your Rules</h1>
 
+<p style="text-align: center;">
 Welcome to Cloud Freedom, where we empower you to take full control of your data.  
 No more monthly fees. No more third-party snooping. With our easy-to-follow guides, you’ll build a private cloud storage system that’s secure, cost-effective, and entirely yours.
+</p>
 
 ---
 
