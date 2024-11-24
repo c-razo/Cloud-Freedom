@@ -11,3 +11,6 @@ The ultimate guide to building your own private cloud storage system.
 
 ---
 Cloud Freedom empowers you to break free from monthly storage fees. Get started now!
+
+---
+[⬅ Back to Home](../index.md)

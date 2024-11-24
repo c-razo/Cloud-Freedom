@@ -37,3 +37,7 @@ By the end of this guide, you’ll know how to:
 3. Sync your files across all your devices seamlessly.
 
 Let’s get started on your journey to **Cloud Freedom**!
+
+---
+
+[⬅ Back to Home](../index.md)
