@@ -14,47 +14,46 @@ No more monthly fees. No more third-party snooping. With our easy-to-follow guid
 
 ---
 
-## 🌐 Why Choose?
+## 🌐 Why Choose Cloud Freedom?
 
-- 💰 **Save Money**: Say goodbye to endless subscription fees from major providers.  
-- 🔒 **Full Privacy**: Keep your data private—no prying eyes, no third-party access.  
-- ⚙️ **Total Control**: Customize your storage your way, on your own terms.
+- 💰 **Keep Your Money**: Stop wasting hundreds on overpriced subscriptions. **Invest once** and enjoy freedom forever.  
+- 🔒 **Protect What Matters**: Only you hold the keys to your data—**no corporations, no risks, no compromises**.  
+- ⚙️ **Be Your Own Cloud Provider**: Personalize your system to work exactly how you need it—**anywhere, anytime**.
 
 ---
 
 ## 🚀 Take the Next Step
 
-### Ready to take control of your data? Choose the plan that fits your needs:
+Ready to break free from monthly fees and take full control of your data? **Empower yourself** with the plan that’s right for you:
 
-<a href="#" style="text-decoration: none; background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 5px; margin: 10px; display: inline-block; font-weight: bold;">Buy Basic</a>  
-<small>Perfect for beginners to get started with their private cloud.</small>
-
-<a href="#" style="text-decoration: none; background-color: #FF5733; color: white; padding: 10px 20px; border-radius: 5px; margin: 10px; display: inline-block; font-weight: bold;">Buy Premium</a>  
-<small>For advanced users who want more features and flexibility.</small>
+<div style="text-align: center;">
+  <a href="#" style="text-decoration: none; background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 5px; margin-right: 10px; font-size: 16px;">🔑 Buy Basic</a>
+  <p style="margin-top: 5px; font-size: 14px; color: #555;">Start your journey to <strong>total data independence</strong>—perfect for beginners who want an easy, step-by-step setup.</p>
+  <a href="#" style="text-decoration: none; background-color: #FF5722; color: white; padding: 10px 20px; border-radius: 5px; margin-left: 10px; font-size: 16px;">✨ Buy Premium</a>
+  <p style="margin-top: 5px; font-size: 14px; color: #555;">Experience the <strong>ultimate cloud solution</strong> with powerful features for families, teams, or businesses seeking full collaboration and security.</p>
+</div>
 
 ---
 
-## 📚 Explore the Guide:
+[📚 Explore the Guide:](introduction.md)
 
 ### **Basic**
 Get started with the essentials to set up your private cloud:  
-- [📖 Introduction](introduction.md) - Learn the fundamentals and why private cloud storage matters.  
-- [🛠️ Setup](setup.md) - Follow our easy step-by-step guide to start building your cloud.  
-- [⚙️ Configuration](configuration.md) - Fine-tune your system for maximum efficiency.  
-
----
+- [Introduction](introduction.md)  
+- [Setup](setup.md)  
+- [Configuration](configuration.md)  
 
 ### **Premium**
 Unlock advanced features for a collaborative and secure cloud:  
-- [👥 Multi-User Setup](multi-user-setup.md) - Create secure environments for multiple users.  
-- [💡 How to Use](how-to-use.md) - Maximize your private cloud’s potential for syncing and sharing.  
-- [🛡️ Security](security.md) - Implement best practices to protect your data.  
-- [🛠️ Troubleshooting](troubleshooting.md) - Resolve common issues and keep your system running smoothly.  
+- [Multi-User Setup](multi-user-setup.md)  
+- [How to Use](how-to-use.md)  
+- [Security](security.md)  
+- [Troubleshooting](troubleshooting.md)  
 
 ---
 
 ### 💡 [Why Use Your Own Private Cloud?](why-use-your-own-cloud.md)  
-Explore the financial, privacy, and security benefits of owning your data.
+Explore the benefits of private cloud storage.
 
 ---
 
