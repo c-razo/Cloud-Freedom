@@ -12,6 +12,12 @@ Your ultimate guide to building your private cloud storage system and breaking f
 📈 **Scalable**: Expand your storage as your needs grow.
 
 ---
+### 🛠️ How to Use This Guide
+1. Start with the [**Introduction**](introduction.md).
+2. Follow the [**Setup Guide**](setup.md) to get started.
+3. Configure and secure your system using the [**Configuration**](configuration.md) and [**Security**](security.md) guides.
+
+---
 
 ### 📚 What This Guide Covers
 1. [**Introduction**](introduction): Why DIY cloud storage is a game changer.
@@ -21,13 +27,6 @@ Your ultimate guide to building your private cloud storage system and breaking f
 5. [**Mobile App Integration**](mobile-app-integration): Sync your private cloud storage with iOS and Android devices.
 6. [**Multi-User Setup**](multi-user-setup): Learn how to set up your cloud for multiple users with shared access.
 7. [**Troubleshooting**](troubleshooting): Quick solutions to common issues.
-
----
-
-### 🛠️ How to Use This Guide
-1. Start with the [**Introduction**](introduction.md).
-2. Follow the [**Setup Guide**](setup.md) to get started.
-3. Configure and secure your system using the [**Configuration**](configuration.md) and [**Security**](security.md) guides.
 
 ---
 
