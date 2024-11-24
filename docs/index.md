@@ -1,3 +1,5 @@
+![Cloud Freedom Logo](assets/logo.png)
+
 # Cloud Freedom
 
 ## 🚀 Welcome to Cloud Freedom
