@@ -3,6 +3,8 @@
 ## Overview
 With a multi-user setup, you can create separate accounts for family members, team members, or colleagues, each with customized permissions. This allows you to share files securely while maintaining control over who can access what.
 
+> 📷 **Add Diagram Here**: Include a diagram showing the relationships between users, groups, and shared folders.
+
 ---
 
 ## Step 1: Adding Users
@@ -14,6 +16,8 @@ With a multi-user setup, you can create separate accounts for family members, te
    - **Email Address**: For password recovery and notifications.
    - **Password**: (Optional) Set a temporary password or allow the user to create their own.
 5. Assign the user to a group (e.g., "Family," "Team") if applicable.
+
+> 📷 **Add Screenshot Here**: Show the "Add New User" interface in Nextcloud, highlighting the fields for username, email, and group assignment.
 
 ---
 
@@ -30,6 +34,8 @@ With a multi-user setup, you can create separate accounts for family members, te
      - **Can edit**: Allows uploading and editing files.
      - **Read-only**: View files but no changes allowed.
 
+> 📷 **Add Screenshot Here**: Include an image showing the role selection and permission dropdown menu.
+
 ---
 
 ## Step 3: Shared Folders for Groups
@@ -42,12 +48,21 @@ With a multi-user setup, you can create separate accounts for family members, te
      - **Can edit**: All group members can upload and edit files.
      - **Read-only**: Members can view files only.
 
+> 📷 **Add Screenshot Here**: Display the folder sharing interface, emphasizing group sharing and permission settings.
+
 ---
 
 ## Best Practices
 - Encourage users to enable Two-Factor Authentication (2FA) for added security.
 - Regularly review permissions to ensure no unauthorized access.
 - Assign Admin roles only to trusted users.
+
+> 📷 **Add Screenshot Here**: Add an image showing the 2FA setup page or a checklist for reviewing permissions.
+
+---
+
+## Visualizing the Setup
+> 📷 **Add Diagram Here**: Diagram illustrating a shared folder structure with multiple users and their access levels (e.g., Admins with full control, Users with read-only).
 
 ---
 
