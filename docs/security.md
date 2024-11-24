@@ -2,6 +2,8 @@
 
 Securing your cloud storage system is crucial to protect your data from unauthorized access, breaches, and other potential risks. In this section, we’ll cover essential security steps.
 
+> 📷 **Add Diagram Here**: Include a visual diagram showing layers of security measures (e.g., firewalls, 2FA, HTTPS).
+
 ---
 
 ## Step 1: Create Strong User Accounts
@@ -12,9 +14,13 @@ Securing your cloud storage system is crucial to protect your data from unauthor
   - Include a mix of uppercase and lowercase letters, numbers, and special characters.
 - Use a password manager like **Bitwarden** or **1Password** to generate and store passwords.
 
+> 📷 **Add Screenshot Here**: Show a password manager generating a secure password.
+
 ### **2. Avoid Default Accounts**
 - Avoid using default usernames like `admin`.
 - Create unique usernames for all users.
+
+> 📷 **Add Screenshot Here**: Include a screenshot of the user creation page in Nextcloud.
 
 ---
 
@@ -25,6 +31,8 @@ Securing your cloud storage system is crucial to protect your data from unauthor
   1. Log in as the admin user.
   2. Go to **Settings > Security**.
   3. Enable **Two-Factor Authentication** and follow the instructions.
+
+> 📷 **Add Screenshot Here**: Highlight the 2FA settings page in Nextcloud.
 
 ---
 
@@ -42,11 +50,15 @@ Securing your cloud storage system is crucial to protect your data from unauthor
   sudo ufw status
   ```
 
+> 📷 **Add Screenshot Here**: Show the terminal output of the firewall status command.
+
 ### **2. Regular Updates**
 - Always keep your software up-to-date:
   ```bash
   sudo apt update && sudo apt upgrade -y
   ```
+
+> 📷 **Add Screenshot Here**: Include a terminal screenshot showing the update process.
 
 ---
 
@@ -57,6 +69,8 @@ Securing your cloud storage system is crucial to protect your data from unauthor
   - Install an SSL certificate (covered in the configuration section).
   - Regularly renew your certificates (e.g., Let’s Encrypt automatically renews certificates).
 
+> 📷 **Add Screenshot Here**: Show a browser with a secure HTTPS connection.
+
 ### **2. Limit Access to Trusted IPs**
 - Restrict access to specific IP ranges if applicable:
   ```bash
@@ -66,6 +80,8 @@ Securing your cloud storage system is crucial to protect your data from unauthor
   ```
   Require ip YOUR.IP.ADDRESS
   ```
+
+> 📷 **Add Screenshot Here**: Display the configuration file with the `Require ip` rule.
 
 ---
 
@@ -78,11 +94,15 @@ Securing your cloud storage system is crucial to protect your data from unauthor
     rsync -a /var/www/html/nextcloud /path/to/backup/location
     ```
 
+> 📷 **Add Screenshot Here**: Show the terminal running an `rsync` command.
+
 ---
 
 ## Final Thoughts
 
 By implementing these security measures, you’ll ensure your cloud storage system is safe, reliable, and protected from potential threats. Remember to audit your system periodically to maintain security.
+
+> 📷 **Add Diagram Here**: Include a diagram summarizing all security measures for quick reference.
 
 ---
 
