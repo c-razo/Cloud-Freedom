@@ -44,7 +44,11 @@ By the end of this guide, you’ll know how to:
 
 ---
 
+## Get Started
+
 Let’s get started on your journey to Cloud Freedom!
+
+---
 
 <div style="display: flex; justify-content: space-between;">
   <a href="index">&larr; Home</a>
