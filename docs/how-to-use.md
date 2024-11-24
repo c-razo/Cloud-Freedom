@@ -20,4 +20,5 @@ Learn how to seamlessly integrate your private cloud into your daily life with o
 
 Your private cloud is your new digital headquarters—**discover how to use it to its full potential with Cloud Freedom.**
 
-[🔙 Back to Main Page](index.md#how-to-use-your-private-cloud)
+[🔙 Back to Multi-User Setup](multi-user-setup.md)  
+[➡️ Next: Why Use Your Own Private Cloud](why-use-your-own-cloud.md)

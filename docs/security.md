@@ -20,4 +20,5 @@ Don’t leave your data vulnerable—unlock the full step-by-step security guide
 
 Your data deserves the best protection—**take charge of your digital security with Cloud Freedom.**
 
-[🔙 Back to Main Page](index.md#security-best-practices)
+[🔙 Back to Configuration](configuration.md)  
+[➡️ Next: Multi-User Setup](multi-user-setup.md)

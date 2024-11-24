@@ -20,4 +20,5 @@ With Cloud Freedom’s [Basic Guide](#), you’ll get straightforward instructio
 
 Don’t let complex setups hold you back—**own your cloud storage journey with Cloud Freedom.**
 
-[🔙 Back to Main Page](index.md#configuration)
+[🔙 Back to Step-by-Step Setup](setup.md)  
+[➡️ Next: Security Best Practices](security-best-practices.md)

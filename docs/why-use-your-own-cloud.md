@@ -28,4 +28,5 @@ Don’t let someone else profit from your personal information. Break free from 
 
 Ready to take control? Get started now with the [Basic Guide](#) or unlock advanced features in the [Premium Guide](#).
 
-[🔙 Back to Main Page](index.md#why-use-your-own-private-cloud)
+[🔙 Back to How to Use Your Private Cloud](how-to-use.md)  
+[➡️ Back to Main Page](index.md)

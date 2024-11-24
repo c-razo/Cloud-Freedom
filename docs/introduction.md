@@ -22,4 +22,5 @@ Unlock your potential and start building today with our [Basic Guide](#) or take
 
 Don’t just imagine owning your own cloud—**make it happen with Cloud Freedom.**
 
-[🔙 Back to Main Page](index.md#introduction)
+[🔙 Back to Main Page](index.md#introduction)  
+[➡️ Next: Step-by-Step Setup](setup.md)

@@ -36,4 +36,5 @@ This is just the beginning! To unlock the complete step-by-step guide and gain e
 
 **Why wait?** Start building the future of your data storage today and take the first step toward complete digital independence. Don’t just imagine it—make it happen with Cloud Freedom!
 
-[🔙 Back to Main Page](index.md#step-by-step-setup)
+[🔙 Back to Introduction](introduction.md)  
+[➡️ Next: Configuration](configuration.md)

@@ -19,4 +19,5 @@ Unlock the step-by-step guide to setting up and managing multiple users with our
 
 Give everyone the access they need while keeping your data fully secure—**start your multi-user setup journey with Cloud Freedom.**
 
-[🔙 Back to Main Page](index.md#multi-user-setup)
+[🔙 Back to Security Best Practices](security-best-practices.md)  
+[➡️ Next: How to Use Your Private Cloud](how-to-use.md)
