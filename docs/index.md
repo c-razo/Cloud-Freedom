@@ -3,7 +3,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
 <link rel="manifest" href="assets/icons/site.webmanifest">
 <link rel="shortcut icon" href="assets/icons/favicon.ico">
-<img src="docs/assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 20px auto;">
+<img src="assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 20px auto;">
 
 <h1 style="text-align: center; color: #007BFF;">Your Data, Your Rules</h1>
 
@@ -16,7 +16,6 @@ No more monthly fees. No more third-party snooping. With our easy-to-follow guid
 
 ## 🌐 Why Choose?
 
-Here’s why Cloud Freedom is the best choice for your data independence:
 - 💰 **Save Money**: Say goodbye to endless subscription fees from major providers.  
 - 🔒 **Full Privacy**: Keep your data private—no prying eyes, no third-party access.  
 - ⚙️ **Total Control**: Customize your storage your way, on your own terms.
@@ -25,16 +24,24 @@ Here’s why Cloud Freedom is the best choice for your data independence:
 
 ## 📚 Explore the Guide:
 
-### **Basic**  
-Get started with the essentials to set up your private cloud. ([sections.md](basic.md))  
+### **Basic**
+Start with the essential steps to build your private cloud:
+- [Introduction](introduction.md)
+- [Setup](setup.md)
+- [Configuration](configuration.md)
 
-### **Premium**  
-Unlock advanced features for complete customization. ([sections.md](premium.md))  
+---
+
+### **Premium**
+Take your private cloud to the next level with advanced features:
+- [Multi-User Setup](multi-user-setup.md)
+- [Security Best Practices](security.md)
+- [How to Use Your Private Cloud](how-to-use.md)
 
 ---
 
 ### 💡 [Why Use Your Own Private Cloud?](why-use-your-own-cloud.md)  
-Explore the financial, privacy, and customization benefits of owning your data.
+Explore the benefits of private cloud storage.
 
 ---
 
@@ -43,7 +50,8 @@ Explore the financial, privacy, and customization benefits of owning your data.
 - [Buy Basic](#)  
 - [Buy Premium](#)  
 
-<img src="docs/assets/icons/cloud-visual.png" alt="Placeholder Visual" style="width: 100%; display: block; margin: 20px auto;">
+📷 **Placeholder for Visual**  
+Add an image symbolizing freedom and security, such as a padlock over a cloud or a private server setup.
 
 ---
 
