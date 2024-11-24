@@ -52,3 +52,5 @@ With a multi-user setup, you can create separate accounts for family members, te
 ---
 
 *Return to the [Main Guide](index.md) or explore [Advanced Features](advanced.md).*
+
+[⬅ Back to Home](index.md)

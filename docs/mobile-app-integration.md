@@ -45,3 +45,5 @@ Seamlessly access your files on the go by integrating your private cloud storage
 ---
 
 *Return to the [Main Guide](index.md) or explore [Advanced Features](advanced.md).*
+
+[⬅ Back to Home](index.md)
