@@ -20,14 +20,14 @@ This guide includes detailed, step-by-step instructions for:
 - Managing multiple users and troubleshooting common issues.
 
 ---
-## 🛠️ How to Use This Guide
+## 📍 Roadmap of the Guide
 
 1. Start with the **[Introduction](introduction.md)**.
 2. Follow the **[Setup Guide](setup.md)** to install your cloud storage system.
 3. Configure and secure your system using the **[Configuration](configuration.md)** and **[Security Best Practices](security.md)** guides.
 4. Explore advanced options like **[Mobile App Integration](mobile-app-integration.md)** and **[Multi-User Setup](multi-user-setup.md)**.
 
-## 📍 Roadmap of the Guide
+## 📚 Table of Contents
 
 This guide will walk you through the following steps to set up your personal cloud storage system:
 
