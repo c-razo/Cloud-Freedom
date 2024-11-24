@@ -4,6 +4,6 @@
 
 ---
 <div style="display: flex; justify-content: space-between;">
-  <a href="mobile-app-integration">&larr; Previous</a>
-  <a href="troubleshooting">Next &rarr;</a>
+  <a href="multi-user-setup">&larr; Previous</a>
 </div>
+
