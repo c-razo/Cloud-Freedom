@@ -5,7 +5,7 @@
 <link rel="shortcut icon" href="assets/icons/favicon.ico">
 <img src="assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 0 auto;">
 
-# 🌟 Cloud Freedom: Your Data, Your Rules
+# 🌟 Your Data, Your Rules
 
 Welcome to Cloud Freedom, where we empower you to take full control of your data.  
 No more monthly fees. No more third-party snooping. With our easy-to-follow guides, you’ll build a private cloud storage system that’s secure, cost-effective, and entirely yours.
