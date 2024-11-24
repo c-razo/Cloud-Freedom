@@ -1,9 +1,3 @@
-# Setup
-
-In this section, we’ll cover everything you need to get started with your cloud storage system, including recommended hardware, software, and tools.
-
----
-
 ## Hardware Requirements
 
 ### **1. Your Base Device**

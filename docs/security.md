@@ -1,11 +1,3 @@
-### **Next Steps: Security Section**
-Now, let’s proceed to the **security.md** section. This part will teach users how to secure their cloud storage system to protect their data and ensure safe access.
-
----
-
-### **Draft Content for security.md**
-
-```markdown
 # Security
 
 Securing your cloud storage system is crucial to protect your data from unauthorized access, breaches, and other potential risks. In this section, we’ll cover essential security steps.

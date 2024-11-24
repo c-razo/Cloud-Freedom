@@ -1,6 +1,3 @@
-### **Draft Content for configuration.md**
-
-```markdown
 # Configuration
 
 This section walks you through the process of installing and configuring the software required for your private cloud storage system.
