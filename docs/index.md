@@ -1,3 +1,8 @@
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="assets/logo1.png" alt="Cloud Freedom Logo" style="width: 40px; height: 40px;">
+    <h1>Cloud-Freedom</h1>
+</div>
+
 ## 🚀 Welcome to Cloud Freedom
 Your ultimate guide to building your private cloud storage system and breaking free from monthly subscription fees.
 
