@@ -1,3 +1,9 @@
+---
+title: "Home"
+layout: default
+nav_order: 1
+---
+
 <div align="center">
   <h1>🌩️ Cloud Freedom 🌩️</h1>
   <p>Your Data, Your Rules</p>
