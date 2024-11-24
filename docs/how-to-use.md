@@ -19,3 +19,5 @@ Learn how to seamlessly integrate your private cloud into your daily life with o
 📷 **Placeholder for Visual**: Add an image of a cloud interface in use, like a file upload screen or user dashboard.
 
 Your private cloud is your new digital headquarters—**discover how to use it to its full potential with Cloud Freedom.**
+
+[🔙 Back to Main Page](index.md#how-to-use-your-private-cloud)

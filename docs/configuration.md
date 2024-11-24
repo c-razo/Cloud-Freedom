@@ -19,3 +19,5 @@ With Cloud Freedom’s [Basic Guide](#), you’ll get straightforward instructio
 📷 **Placeholder for Visual**: Add an image showing a sleek configuration interface or terminal screen to inspire confidence.
 
 Don’t let complex setups hold you back—**own your cloud storage journey with Cloud Freedom.**
+
+[🔙 Back to Main Page](index.md#configuration)

@@ -1,3 +1,10 @@
+<link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+<link rel="manifest" href="assets/icons/site.webmanifest">
+<link rel="shortcut icon" href="assets/icons/favicon.ico">
+<img src="assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 0 auto;">
+
 # 🌟 Cloud Freedom: Your Data, Your Rules
 
 Welcome to Cloud Freedom, where we empower you to take full control of your data.  
@@ -32,7 +39,7 @@ Discover how to configure your private cloud for maximum efficiency and reliabil
 
 ---
 
-### 🛡️ [Security Best Practices](security-best-practices.md)  
+### 🛡️ [Security Best Practices](security.md)  
 Protect your data with top-tier security. From SSL encryption to firewalls, we’ll guide you through it all.
 
 ---
@@ -56,8 +63,8 @@ Still on the fence? Explore the financial, privacy, and security benefits of tak
 
 Your journey to data independence starts now. Ready to unlock the full guide? Choose the plan that works for you:
 
-- 📖 [Get the Basic Guide](#)  
-- 💎 [Upgrade to the Premium Guide](#)
+- 📖 [Get the Basic Guide](basic-guide.md)  
+- 💎 [Upgrade to the Premium Guide](premium-guide.md)
 
 📷 **Placeholder for Visuals**: Add a banner image of a private server or a bold graphic showcasing the words "Your Data, Your Rules."
 

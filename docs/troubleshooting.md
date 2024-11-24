@@ -16,3 +16,5 @@
 4. **Access denied**:
    - Double-check your firewall rules.
    - Reset passwords if necessary.
+
+[🔙 Back to Main Page](index.md#troubleshooting)

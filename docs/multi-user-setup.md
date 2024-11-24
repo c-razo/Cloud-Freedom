@@ -18,3 +18,5 @@ Unlock the step-by-step guide to setting up and managing multiple users with our
 📷 **Placeholder for Visual**: Add an image of a dashboard with user accounts or a team collaborating securely in a cloud interface.
 
 Give everyone the access they need while keeping your data fully secure—**start your multi-user setup journey with Cloud Freedom.**
+
+[🔙 Back to Main Page](index.md#multi-user-setup)

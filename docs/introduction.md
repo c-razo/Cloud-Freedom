@@ -21,3 +21,5 @@ Unlock your potential and start building today with our [Basic Guide](#) or take
 📷 **Placeholder for Visual**: Add an image symbolizing freedom and security, such as a padlock over a cloud or a private server setup.
 
 Don’t just imagine owning your own cloud—**make it happen with Cloud Freedom.**
+
+[🔙 Back to Main Page](index.md#introduction)
