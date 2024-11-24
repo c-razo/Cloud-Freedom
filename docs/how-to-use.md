@@ -84,7 +84,11 @@ Congratulations on setting up your private cloud storage! Now, let’s learn how
 
 ---
 
+## Enjoy
+
 Enjoy the freedom and control of your personal cloud storage system!
+
+---
 
 <div style="display: flex; justify-content: space-between;">
   <a href="multi-user-setup">&larr; Previous</a>
