@@ -54,3 +54,9 @@ With a multi-user setup, you can create separate accounts for family members, te
 *Return to the [Main Guide](index.md) or explore [Advanced Features](advanced.md).*
 
 [⬅ Back to Home](index.md)
+
+---
+
+<div style="display: flex; justify-content: flex-end;">
+    <a href="NEXT_PAGE.md" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next &rarr;</a>
+</div>

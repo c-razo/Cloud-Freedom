@@ -1,8 +1,3 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="assets/logo1.png" alt="Cloud Freedom Logo" style="width: 40px; height: 40px;">
-    <h1>Cloud-Freedom</h1>
-</div>
-
 ## 🚀 Welcome to Cloud Freedom
 Your ultimate guide to building your private cloud storage system and breaking free from monthly subscription fees.
 
@@ -19,11 +14,11 @@ Your ultimate guide to building your private cloud storage system and breaking f
 ---
 
 ### 📚 What This Guide Covers
-- [**Mobile App Integration**](mobile-app-integration.md): Sync your private cloud storage with iOS and Android devices.
 - [**Introduction**](introduction.md): Why DIY cloud storage is a game changer.
 - [**Setup Guide**](setup.md): Step-by-step instructions for installation.
 - [**Configuration**](configuration.md): Customize your cloud for seamless use.
 - [**Security Best Practices**](security.md): Protect your data with SSL and authentication.
+- [**Mobile App Integration**](mobile-app-integration.md): Sync your private cloud storage with iOS and Android devices.
 - [**Multi-User Setup**](multi-user-setup.md): Learn how to set up your cloud for multiple users with shared access.
 - [**Troubleshooting**](troubleshooting.md): Quick solutions to common issues.
 
