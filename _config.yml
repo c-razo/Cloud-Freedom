@@ -1,9 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: >
   <div style="text-align: center;">
-      <a href="/" style="text-decoration: none; color: inherit; font-size: 24px; font-weight: bold;">
-          Cloud-Freedom
-      </a>
+      <a href="/" style="text-decoration: none; color: inherit; font-size: 24px; font-weight: bold;">Cloud-Freedom</a>
   </div>
 description: "Your ultimate guide to private cloud storage."
 search_enabled: true
