@@ -1,7 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
-title: >
-  <div style="width: 100%; text-align: center; font-size: 24px; font-weight: bold; color: inherit;">
-      <a href="/" style="text-decoration: none; color: #007BFF;">Cloud-Freedom</a>
-  </div>
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 description: "Your ultimate guide to private cloud storage."
 search_enabled: true
