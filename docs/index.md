@@ -1,9 +1,10 @@
-<link rel="apple-touch-icon" sizes="180x180" href="docs/assets/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="docs/assets/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="docs/assets/icons/favicon-16x16.png">
-<link rel="manifest" href="docs/assets/icons/site.webmanifest">
-<link rel="shortcut icon" href="docs/assets/icons/favicon.ico">
-<img src="docs/assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 0 auto;">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="/assets/icons/site.webmanifest">
+<link rel="shortcut icon" href="/assets/icons/favicon.ico">
+
+<img src="/assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 0 auto;">
 
 <h1 style="text-align: center; color: #007BFF;">Your Data, Your Rules</h1>
 
