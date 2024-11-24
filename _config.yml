@@ -9,3 +9,4 @@ just_the_docs:
     - assets/css/custom.css
 description: "Your ultimate guide to private cloud storage."
 search_enabled: true
+# Force rebuild
