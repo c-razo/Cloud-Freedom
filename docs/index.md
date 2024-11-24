@@ -14,13 +14,13 @@ Your ultimate guide to building your private cloud storage system and breaking f
 
 This guide will walk you through the following steps to set up your personal cloud storage system:
 
-1. [**Introduction**](introduction.md): Why DIY cloud storage is a game changer.
-2. [**Setup Guide**](setup.md): Step-by-step instructions for installation.
-3. [**Configuration**](configuration.md): Customize your cloud for seamless use.
-4. [**Security Best Practices**](security.md): Protect your data with SSL and authentication.
-5. [**Mobile App Integration**](mobile-app-integration.md): Sync your private cloud storage with iOS and Android devices.
-6. [**Multi-User Setup**](multi-user-setup.md): Set up your cloud for multiple users with shared access.
-7. [**Troubleshooting**](troubleshooting.md): Quick solutions to common issues.
+1. [**Introduction**](introduction): Why DIY cloud storage is a game changer.
+2. [**Setup Guide**](setup): Step-by-step instructions for installation.
+3. [**Configuration**](configuration): Customize your cloud for seamless use.
+4. [**Security Best Practices**](security): Protect your data with SSL and authentication.
+5. [**Multi-User Setup**](multi-user-setup): Learn how to set up your cloud for multiple users with shared access.
+6. [**How to Use**](how-to-use): Daily tips for managing and optimizing your cloud storage.
+7. [**Troubleshooting**](troubleshooting): Quick solutions to common issues.
 
 Start with the **[Introduction](introduction.md)** and follow the steps in sequence.
 

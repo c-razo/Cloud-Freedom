@@ -46,5 +46,7 @@ By the end of this guide, you’ll know how to:
 
 Let’s get started on your journey to Cloud Freedom!
 
-[← Back to Home](index.md)  
-[Next → Setup Guide](setup.md)
+<div style="display: flex; justify-content: space-between;">
+  <a href="index">&larr; Home</a>
+  <a href="setup">Next &rarr;</a>
+</div>

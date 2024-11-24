@@ -88,5 +88,5 @@ By implementing these security measures, you’ll ensure your cloud storage syst
 
 <div style="display: flex; justify-content: space-between;">
   <a href="configuration">&larr; Previous</a>
-  <a href="mobile-app-integration">Next &rarr;</a>
+  <a href="multi-user-setup">Next &rarr;</a>
 </div>
