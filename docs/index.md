@@ -39,8 +39,6 @@ This guide will walk you through the following steps to set up your personal clo
 6. [**How to Use**](how-to-use): Daily tips for managing and optimizing your cloud storage.
 7. [**Troubleshooting**](troubleshooting): Quick solutions to common issues.
 
-Start with the **[Introduction](introduction.md)** and follow the steps in sequence.
-
 ---
 
 ## 🌟 Why Cloud Freedom?
