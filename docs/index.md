@@ -4,7 +4,7 @@
 <link rel="manifest" href="/assets/icons/site.webmanifest">
 <link rel="shortcut icon" href="/assets/icons/favicon.ico">
 
-<img src="/assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 0 auto;">
+<img src="assets/icons/logo1.png" alt="Cloud Freedom Logo" style="width: 150px; display: block; margin: 0 auto;">
 
 <h1 style="text-align: center; color: #007BFF;">Your Data, Your Rules</h1>
 
