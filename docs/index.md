@@ -16,7 +16,7 @@
 ---
 
 <div style="text-align: center;">
-    <h2>🚀 Take the Next Step:</h2>
+    <h2>🚀 Take the Next Step</h2>
     <a href="#buy-basic" style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Buy Basic</a>
     <a href="#buy-premium" style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-left: 10px;">Buy Premium</a>
 </div>
