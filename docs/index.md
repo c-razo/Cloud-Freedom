@@ -16,6 +16,7 @@ Your ultimate guide to building your private cloud storage system and breaking f
 ---
 
 ### 📚 What This Guide Covers
+- [**Mobile App Integration**](mobile-app-integration.md): Sync your private cloud storage with iOS and Android devices.
 - [**Introduction**](introduction.md): Why DIY cloud storage is a game changer.
 - [**Setup Guide**](setup.md): Step-by-step instructions for installation.
 - [**Configuration**](configuration.md): Customize your cloud for seamless use.
