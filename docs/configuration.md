@@ -115,6 +115,8 @@ Nextcloud is the software we’ll use to create your cloud storage system.
 
 ---
 
+### Finished
+
 Congratulations! Your cloud storage system is now up and running.
 
 ---
