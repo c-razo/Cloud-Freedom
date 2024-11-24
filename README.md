@@ -1,4 +1,4 @@
-# Cloud Freedom Guide
+# Cloud Freedom
 
 ## **Welcome to Cloud Freedom**
 The ultimate guide to building your own private cloud storage system and breaking free from monthly subscription fees. With this guide, you’ll learn how to set up a secure, scalable, and accessible storage solution, tailored to your needs.

@@ -1,4 +1,4 @@
-# Cloud Freedom Guide
+# Cloud Freedom
 
 ## 🚀 Welcome to Cloud Freedom
 Your ultimate guide to building your private cloud storage system and breaking free from monthly subscription fees.
