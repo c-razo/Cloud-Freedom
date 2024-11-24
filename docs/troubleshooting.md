@@ -3,4 +3,4 @@
 (Placeholder content)
 
 ---
-[⬅ Back to Home](../docs/index.md)
+[⬅ Back to Home](index.md)
