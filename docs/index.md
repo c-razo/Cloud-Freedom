@@ -27,7 +27,7 @@ This guide includes detailed, step-by-step instructions for:
 3. Configure and secure your system using the **[Configuration](configuration.md)** and **[Security Best Practices](security.md)** guides.
 4. Explore advanced options like **[Mobile App Integration](mobile-app-integration.md)** and **[Multi-User Setup](multi-user-setup.md)**.
 
-## 📚 Table of Contents
+## 📖 Table of Contents
 
 This guide will walk you through the following steps to set up your personal cloud storage system:
 
