@@ -1,4 +1,4 @@
-![Cloud Freedom Logo](assets/logo.png)
+![Cloud Freedom Logo](assets/logo2.png)
 
 ## 🚀 Welcome to Cloud Freedom
 Your ultimate guide to building your private cloud storage system and breaking free from monthly subscription fees.
