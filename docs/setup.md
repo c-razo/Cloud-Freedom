@@ -1,3 +1,5 @@
+# Setup Guide
+
 ## Hardware Requirements
 
 ### **1. Your Base Device**
@@ -60,10 +62,72 @@ You can also explore:
 ## Ready to Start?
 Once you’ve gathered your hardware and software, we’ll walk you through installing and configuring your system in the next section.
 
+## Step-by-Step Setup Instructions
+
+Follow this guide to set up your private cloud storage system. Each step is broken down with clear instructions to make the process as simple as possible.
+
+---
+
+### Step 1: Gather Your Tools
+
+To get started, you'll need the following:
+- A dedicated storage device (e.g., an external hard drive or a NAS).
+- A computer or Raspberry Pi to act as the server.
+- Reliable internet access.
+
+> 📷 **Add Screenshot Here**: A visual of the required hardware setup (e.g., a Raspberry Pi with a connected hard drive) would be helpful.
+
+---
+
+### Step 2: Install Your Operating System
+
+Choose an operating system (e.g., Ubuntu Server or Raspberry Pi OS) and install it on your server device:
+1. Download the OS image from the official website.
+2. Use a tool like **Rufus** or **Etcher** to create a bootable USB drive.
+3. Install the OS on your server device following the on-screen instructions.
+
+> 📷 **Add Screenshot Here**: Include a screenshot of the OS installation process or bootable USB creation.
+
+---
+
+### Step 3: Configure Network Settings
+
+Ensure your server is accessible from your local network:
+1. Assign a static IP address to your server.
+2. Enable SSH for remote access.
+
+> 📷 **Add Screenshot Here**: Add a screenshot of the network settings configuration page.
+
+---
+
+### Step 4: Install Cloud Storage Software
+
+Choose a cloud storage platform (e.g., Nextcloud, ownCloud) and install it:
+1. Update your server:  
+   ```bash
+   sudo apt update && sudo apt upgrade
+   ```
+2. Install the required packages:  
+   ```bash
+   sudo apt install apache2 mariadb-server php libapache2-mod-php
+   ```
+3. Download and set up the software following the official documentation.
+
+> 📷 **Add Screenshot Here**: Add a visual of the software installation progress or login screen after setup.
+
+---
+
+### Step 5: Test Your Setup
+
+Before proceeding to advanced configurations, test your setup:
+1. Access your cloud storage interface through a web browser.
+2. Upload a test file and check if it syncs properly across devices.
+
+> 📷 **Add Screenshot Here**: Include a screenshot of the web interface after a successful test.
+
 ---
 
 <div style="display: flex; justify-content: space-between;">
   <a href="introduction">&larr; Previous</a>
   <a href="configuration">Next &rarr;</a>
 </div>
-
