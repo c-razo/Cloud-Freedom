@@ -62,6 +62,39 @@ We take privacy seriously! Here's a sneak peek into one security tip you’ll le
 ---
 
 <div align="center">
+  <h2>📋 Frequently Asked Questions</h2>
+</div>
+
+**1. What is Cloud Freedom?**  
+Cloud Freedom is your guide to setting up your own private cloud storage system, saving you money and keeping your data secure.  
+
+**2. What equipment do I need?**  
+A Raspberry Pi or any old computer with at least 2GB of RAM and 64GB+ storage.  
+
+**3. Do I need technical skills?**  
+Not at all! Our guide is designed for beginners with easy-to-follow steps.  
+
+---
+
+<div align="center">
+  <h2>🌟 Testimonials</h2>
+</div>
+
+> "Cloud Freedom saved me hundreds of dollars in cloud storage fees! The guide was super easy to follow." – *Alex T.*  
+
+> "Finally, I can keep my data private without relying on third-party services." – *Jamie R.*  
+
+---
+
+<div align="center">
+  <h2>📧 Get in Touch</h2>
+</div>
+
+Have questions? Reach out to us at **support@cloudfreedom.com**.
+
+---
+
+<div align="center">
   <h2>🚀 Take the Next Step 🚀</h2>
   <p>Get the <strong>Premium Guide</strong> for:</p>
   <ul align="left" style="list-style: none; padding-left: 0;">
