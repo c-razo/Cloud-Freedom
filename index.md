@@ -55,6 +55,10 @@ We take privacy seriously! Here's a sneak peek into one security tip you’ll le
 
 ---
 
+[Explore the Teaser Guide](guides/teaser-guide.md)
+
+---
+
 <div align="center">
   <h2>📋 Frequently Asked Questions</h2>
 </div>
