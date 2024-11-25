@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌩️ Cloud Freedom 🌩️</h1>
   <p>Your Data, Your Rules</p>
-  <img src="assets/images/cloud-freedom.png" alt="Cloud Freedom Logo" width="150">
+  <img src="assets/images/1.png" alt="Cloud Freedom Logo" width="150">
 </div>
 
 ---
