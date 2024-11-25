@@ -1,9 +1,3 @@
----
-title: "Teaser Guide"
-layout: default
-nav_order: 2
----
-
 <div align="center">
   <h1>🌩️ Cloud Freedom Teaser Guide 🌩️</h1>
   <p>Your Data, Your Rules</p>
